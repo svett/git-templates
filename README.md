@@ -2,6 +2,6 @@
 
 A git templates that contains handy hooks and scripts
 
-# License
+#### License
 
 MIT License
